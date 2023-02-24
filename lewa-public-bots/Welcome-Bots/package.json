@@ -1,0 +1,15 @@
+{
+    "author": "By Lewafuse",
+    "description": "Lewafuse - Package.json - Aoi.js v5",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "@akarui/aoi.music": "1.2.6",
+        "aoi.js": "^5.5.5",
+        "express": "^4.18.1"
+    },
+    "engines": {
+        "node": "16.x"
+    }
+}

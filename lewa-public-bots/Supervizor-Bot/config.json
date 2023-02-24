@@ -1,0 +1,8 @@
+{
+    "token": "BOT_TOKEN",
+    "prefix": "BOT_PREFIX",
+    "status": "LEWA_STATUS1",
+    "status1": "LEWA_STATUS2",
+    "status2": "LEWA_STATUS3",
+    "status3": "LEWA_STATUS4"
+}
